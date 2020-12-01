@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/kivals/fitness-telegram-bot/issues"
   },
-  "homepage": "https://github.com/kivals/fitness-telegram-bot#readme"
+  "homepage": "https://github.com/kivals/fitness-telegram-bot#readme",
+  "dependencies": {
+    "mongoose": "^5.11.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }

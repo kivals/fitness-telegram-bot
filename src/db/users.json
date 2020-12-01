@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "uuid": "u001",
+      "telegram_id": "@kivals90",
+      "name": "Слава",
+      "second_name": "Мельник",
+      "role": "trainer",
+      "group_id": ["g001", "g002"]
+    },
+    {
+      "uuid": "u002",
+      "telegram_id": "@test",
+      "name": "test",
+      "second_name": "test",
+      "role": "client",
+      "group_id": ["g001"]
+    },
+    {
+      "uuid": "u002",
+      "telegram_id": "@mock",
+      "name": "mock",
+      "second_name": "mock",
+      "role": "client",
+      "group_id": ["g001"]
+    }
+  ]
+}
