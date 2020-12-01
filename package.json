@@ -1,0 +1,19 @@
+{
+  "name": "fitness-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for manage clients by couch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kivals/fitness-telegram-bot.git"
+  },
+  "author": "melnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kivals/fitness-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/kivals/fitness-telegram-bot#readme"
+}
