@@ -16,4 +16,4 @@ const ClientResultSchema = new Schema({
   },
 });
 
-mongoose.model('groups', ClientResultSchema);
+mongoose.model('client_results', ClientResultSchema);
