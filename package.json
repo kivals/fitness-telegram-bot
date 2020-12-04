@@ -4,7 +4,8 @@
   "description": "Telegram bot for manage clients by couch",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev-proxy": "NODE_TLS_REJECT_UNAUTHORIZED='0' PROXY_USE='true' nodemon src/index.js",
+    "dev": "NODE_TLS_REJECT_UNAUTHORIZED='0' nodemon src/index.js"
   },
   "repository": {
     "type": "git",
